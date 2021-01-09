@@ -38,7 +38,7 @@ public class Order implements Serializable {
 	public Order(){
 	}
 
-	public Order(long id, String adress, double latitude, double longitude, Instant moment, OrderStatus status) {
+	public Order(long id, String address, double latitude, double longitude, Instant moment, OrderStatus status) {
 		super();
 		this.id = id;
 		this.address = address;

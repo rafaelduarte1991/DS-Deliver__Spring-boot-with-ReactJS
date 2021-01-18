@@ -1,7 +1,8 @@
 .home-container {
-  padding-top: 100px;
+  padding-top: 80px;
+  padding-bottom: 55px;
   height: calc(100vh - 254px);
-}
+  }
 
 .home-container h1 {
   margin: 0;
@@ -14,17 +15,17 @@
 
 .home-title {
   font-weight: bold;
-  font-size: 55px;
-  line-height: 58px;
+  font-size: 45px;
+  line-height: 48px;
   letter-spacing: -0.015em;
   color: var(--dark-color);
-  margin-bottom: 40px !important;
+  margin-bottom: 30px !important;
 }
 
 .home-subtitle {
   font-weight: normal;
-  font-size: 24px;
-  line-height: 33px;
+  font-size: 20px;
+  line-height: 28px;
   letter-spacing: -0.015em;
   color: var(--secondary-color);
   margin-bottom: 30px;
@@ -33,14 +34,14 @@
 .home-btn-order {
   background-color: var(--primary-color);
   border-radius: 10px;
-  height: 70px;
-  width: 235px;
+  height: 55px;
+  width: 185px;
   display: inline-block;
   display: flex;
   align-items: center;
   justify-content: center;
   font-weight: bold;
-  font-size: 24px;
+  font-size: 20px;
   letter-spacing: -0.015em;
   color: #FFF;
 }

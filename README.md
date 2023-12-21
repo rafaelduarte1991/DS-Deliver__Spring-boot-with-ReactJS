@@ -13,7 +13,7 @@ run DSDeliverAplication main()
 
 ## Frontend
 
-Open the front-web folder on the IDE (Ex: VScode).
+Open the front-web folder in the IDE (Ex: VScode).
 
 ### Install the node_modules
 

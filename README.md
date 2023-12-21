@@ -7,7 +7,7 @@ Developed during the "Semana DevSuperior" event.
 
 ## Backend
 
-Open the backend folder as Maven project on the IDE (Ex: Intellij).
+Open the backend folder as Maven project in the IDE (Ex: Intellij).
 
 run DSDeliverAplication main()
 

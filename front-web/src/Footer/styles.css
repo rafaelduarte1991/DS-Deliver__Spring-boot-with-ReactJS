@@ -8,14 +8,19 @@
     text-align: center;
     color: #FFF;
 }
-  
+
   .footer-icons {
     margin-top: 10px;
     display: flex;
     justify-content: center;
  }
-  
+
   .footer-icons > * {
     margin-right: 5px;
   }
-  
+
+@media only screen and (max-width: 480px) {
+  .main-footer {
+    padding: 15px;
+  }
+}
